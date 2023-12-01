@@ -23,6 +23,13 @@ const projects = [
 		img: require('@/assets/images/navrachana-university.jpg'),
 		link:'/projects/navrachana-university'
 	},
+{
+		id: 4,
+		title: 'License Plate Detection',
+		category: 'Python',
+		img: require('@/assets/images/ui-project-1.jpg'),
+		link:'/projects/license-plate'
+	},
 ];
 
 export default projects;
